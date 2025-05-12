@@ -4,7 +4,8 @@
 
 This project analyzes pizza sales data using SQL for data cleaning and analysis, and Excel for data visualization. The goal was to uncover key business insights to support strategic decision-making for a pizza restaurant chain.
 
-🎯 Objectives
+🎯 Objectives;
+
 Clean and analyze raw sales data using SQL
 
 Calculate key business KPIs
@@ -13,7 +14,8 @@ Visualize performance trends and product insights using Excel
 
 Identify top-selling and underperforming items to improve sales strategy
 
-📂 Dataset
+📂 Dataset;
+
 Source:(https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset)
 
 Contents: Order details including order date, pizza type, category, size, quantity, and price
