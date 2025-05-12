@@ -1,5 +1,7 @@
 🍕 Pizza Sales Analysis Project
+
 📌 Overview
+
 This project analyzes pizza sales data using SQL for data cleaning and analysis, and Excel for data visualization. The goal was to uncover key business insights to support strategic decision-making for a pizza restaurant chain.
 
 🎯 Objectives
