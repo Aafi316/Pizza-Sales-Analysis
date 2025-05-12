@@ -32,7 +32,7 @@ Excel: Data visualization (Pivot Tables, Charts, Dashboards)
 
 Data Cleaning with SQL
 
-Removed nulls and duplicates
+Checked for nulls and duplicates
 
 Standardized column names and formats
 
