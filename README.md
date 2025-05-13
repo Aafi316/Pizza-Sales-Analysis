@@ -63,6 +63,7 @@ Line Charts: Daily and monthly trends for total orders
 Funnel Charts: % Sales by category and size
 
 📊 Key Insights;
+
 Peak sales occur on Fridays and weekends, with a noticeable spike in dinner hours
 
 Large-sized pizzas generate the most revenue despite mid-range pricing
@@ -72,6 +73,7 @@ The Classic category outperforms Veggie and Supreme in both volume and revenue
 The lowest-performing pizzas consistently appear in the Veggie category, suggesting menu optimization opportunities
 
 📁 How to Use;
+
 Open the SQL scripts in your preferred SQL environment to explore the data and replicate calculations
 
 Open the Excel file to interact with the dashboard
@@ -79,6 +81,7 @@ Open the Excel file to interact with the dashboard
 Filter by date, category, or size to view dynamic insights
 
 🚀 Future Enhancements;
+
 Add customer demographic analysis
 
 Build the dashboard in Power BI or Tableau for web deployment
@@ -86,6 +89,7 @@ Build the dashboard in Power BI or Tableau for web deployment
 Forecast future sales using seasonal trend analysis
 
 🙏 Acknowledgements;
+
 Data inspired by online SQL project datasets
 
 Thanks to the open-source community for Excel dashboard design inspirations
